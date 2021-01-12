@@ -2,7 +2,7 @@
 
 ThisBuild / scalaVersion     := "2.12.12"
 ThisBuild / version          := "0.1.0"
-ThisBuild / organization     := "com.github.yqszxx"
+ThisBuild / organization     := "org.yqszxx"
 
 lazy val root = (project in file("."))
   .settings(
